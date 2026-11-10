@@ -2,6 +2,10 @@
 
 A responsive personal portfolio built with React and Vite. It includes an introduction, about/skills, selected projects, and a contact section.
 
+## Live Demo
+
+[View My Portfolio](https://millan-portfolio-omega.vercel.app)
+
 ## Live website
 
 **Pending deployment:** add the production URL here after connecting this repository to Vercel.
