@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-labelledby="title desc">
+  <title id="title">Creative workspace illustration</title>
+  <desc id="desc">A stylized person sitting at a desk with a laptop, plant, sun and abstract shapes.</desc>
+  <circle cx="260" cy="250" r="190" fill="#f2dfd1"/>
+  <circle cx="390" cy="116" r="49" fill="#ed9a78"/>
+  <path d="M74 375c18-74 68-116 137-116s119 42 137 116" fill="#a9bcae"/>
+  <path d="M170 259c-5-64 19-104 76-104 51 0 78 38 73 104l-17 75H185z" fill="#343832"/>
+  <ellipse cx="248" cy="224" rx="58" ry="69" fill="#c98769"/>
+  <path d="M190 218c-5-55 25-88 67-88 42 0 69 30 65 78-19-8-33-26-39-42-21 25-53 39-93 42z" fill="#292d2a"/>
+  <path d="M203 290c18 18 72 20 93 0l30 94H174z" fill="#ef7957"/>
+  <path d="M112 385h300l-28 21H137z" fill="#3a3c35"/>
+  <path d="M182 386l13-92h130l13 92z" fill="#d7d3c7"/>
+  <rect x="214" y="310" width="91" height="65" rx="5" fill="#343832"/>
+  <rect x="221" y="317" width="77" height="49" rx="2" fill="#d8e4d9"/>
+  <path d="M237 338h43M237 346h29M237 354h37" stroke="#8ca997" stroke-width="4" stroke-linecap="round"/>
+  <path d="M374 385v-66m0 18c-30-4-40-24-38-43 24 2 39 17 38 43m0-6c2-30 21-46 42-45 0 23-13 41-42 45" fill="none" stroke="#627d68" stroke-width="8" stroke-linecap="round"/>
+  <path d="M350 386h49l-7 24h-35z" fill="#e69a78"/>
+  <path d="M91 170l11-25 11 25 25 11-25 11-11 25-11-25-25-11z" fill="#f7f0e6"/>
+  <path d="M416 260l7-16 7 16 16 7-16 7-7 16-7-16-16-7z" fill="#ed9a78"/>
+  <path d="M88 425c34-14 62-14 88 0" fill="none" stroke="#d8b9a7" stroke-width="3" stroke-linecap="round"/>
+</svg>
